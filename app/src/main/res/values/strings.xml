@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActivityForResult</string>
+    <string name="btn_go">GO</string>
+    <string name="your_results_are_going_to_display_here">User input</string>
+    <string name="btn_back">back</string>
+    <string name="tv_display_result">Result will be displayed here</string>
+</resources>
